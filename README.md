@@ -5,12 +5,11 @@ You can check the [demo](#).
 This is a simple Budget App made with React.js. You can easily add your Budget that you have and then add your Expenses. You can make different categories that you want to put some Budget limits. When you don't put any category it automatically makes an Uncategorized and puts everything in there. When you add expenses in a Budget Card there is a bar that is filling up and when this bar get passed over 50% it changes to orange color and when it is over 75% it changes to red color (the primary color is blue under 50%). It also has a Total card.
 
 ## Table of Contents (Optional)
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
+-
+-
+-
+-
+-
 
 ## How to Install and Run the Project
 You can fork my Project and use it for personal, educational or business uses. 
